@@ -79,3 +79,7 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+
+## starting -- used by me for experiments
+
+First time installation there  is a es lintric error that can be fixed by ```tsconfigRootDir: __dirname,``` include this code in the parser option of the eslintric of the ui folder 
